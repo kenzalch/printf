@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * convert - converter function
  * @num: number to check
