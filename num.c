@@ -2,7 +2,7 @@
 /**
  * convert - converter function
  * @num: number to check
- * @base: base
+ * @base: base to check
  * @flags: flags
  * @params: paramater
  * Return: string
